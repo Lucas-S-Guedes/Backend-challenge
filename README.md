@@ -81,6 +81,7 @@ VITE_API_URL=http://localhost:8080/api
 npm run dev
 # or
 yarn dev
+
 The frontend will run on:
 📍 http://localhost:8081
 
